@@ -10,7 +10,7 @@ architectures:
   - build-on: amd64
 
 grade: stable
-confinement: strict
+confinement: classic
 
 apps:
   subl:
