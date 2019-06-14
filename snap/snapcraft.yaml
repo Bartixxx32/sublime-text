@@ -1,4 +1,4 @@
-name: sublime-text
+name: sublime-text-bartixxx
 version: latest
 version-script: cat $SNAPCRAFT_STAGE/version
 summary: A sophisticated text editor for code, markup and prose.
